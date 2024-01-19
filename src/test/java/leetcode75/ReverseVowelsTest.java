@@ -1,8 +1,9 @@
 package leetcode75;
 
+import leetcode75.arraystring.ReverseVowels;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class ReverseVowelsTest {
 
